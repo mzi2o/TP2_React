@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/TP2_React/static/css/main.85c1b357.css",
+    "main.js": "/TP2_React/static/js/main.895cd157.js",
+    "static/js/787.88e21ecc.chunk.js": "/TP2_React/static/js/787.88e21ecc.chunk.js",
+    "static/media/img4.jpg": "/TP2_React/static/media/img4.5fe8923d800835cfd855.jpg",
+    "static/media/img2.jpg": "/TP2_React/static/media/img2.d09a458356f768270e64.jpg",
+    "static/media/img5.jpg": "/TP2_React/static/media/img5.91d348463fa13287a69d.jpg",
+    "static/media/img3.jpg": "/TP2_React/static/media/img3.7a85129876a54ae3e2c4.jpg",
+    "static/media/img1.jpg": "/TP2_React/static/media/img1.adc5db2a7a2f3e51f0e9.jpg",
+    "index.html": "/TP2_React/index.html",
+    "main.85c1b357.css.map": "/TP2_React/static/css/main.85c1b357.css.map",
+    "main.895cd157.js.map": "/TP2_React/static/js/main.895cd157.js.map",
+    "787.88e21ecc.chunk.js.map": "/TP2_React/static/js/787.88e21ecc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85c1b357.css",
+    "static/js/main.895cd157.js"
+  ]
+}
